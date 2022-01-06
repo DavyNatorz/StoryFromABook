@@ -1,0 +1,24 @@
+Story from a book
+
+Mechanics:
+Getting hair in a knot > enemies can pull/set tail on fire if not in a knot
+After a criteria is met > make a trigger so people can go to the next page
+
+Ideas:
+Roughly 3-5 pages per chapter | aim for 15-30 minutes per chapter. Every chapter ends with a bossfight.
+
+Chapter 1: Tutorial - Castle - Bandit boss
+Chapter 2: Meeting Scouting party - Woods - Orc boss
+Chapter 3: Following a trail - Ruins - Puzzle chapter - Combat puzzles - Physics based puzzles - Psychic boss
+Chapter 4: Looking for the possessor of knowledge - Earth Kingdom - Mage boss
+Chapter 5: Ambush - Dark General boss
+Chapter 6: Captured during tavels - Puzzle Chapter - Own reflection boss
+Chapter 7: Corrupted Cloud Kingdom - Possessed possessor of Knowledge boss
+Chapter 8: Arrive at Water Kingdom - Flew from Cloud Kingdom - Water Dragon boss
+Chapter 9: Traveling - Looking for the Forest Kingdom - Dark Kingdom Champion boss
+Chapter 10: Puzzle chapter - Looking for the Dark Kingdom - Dark Kingdom Shaman boss
+Chapter 11: Defeating leftovers in the Dark Kingdom - Portal to Sunlight Kingdom (Home) - Dark Kingdom Royal Guard boss
+Chapter 12: Final battle - King Althalos boss
+
+After the princess went to the ruins, she discovered she can posses all the powers of each Kingdom. 
+She needs to find the possessors of knowledge from each Kingdom and learn the powers. 
